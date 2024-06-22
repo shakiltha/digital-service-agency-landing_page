@@ -17,12 +17,12 @@ const Cover = () => {
         </div>
       </div>
       <div className="md:absolute md:top-9">
-        <div className="lg:flex lg:gap-4 ">
+        <div className="lg:flex lg:items-center lg:gap-4 ">
           <div className="lg:flex-1">
-            <h3 className="poppins font-bold text-2xl lg:text-3xl">
+            <h3 className="poppins font-bold text-2xl lg:text-3xl lg:my-4">
               Creative Digital Marketing Agency
             </h3>
-            <p className="rubik lg:text-lg">
+            <p className="rubik lg:text-lg lg:my-4">
               In today's digital age, standing out from the crowd requires a
               creative spark. A creative digital marketing agency brings that
               spark and more to the table. These agencies are masters at
