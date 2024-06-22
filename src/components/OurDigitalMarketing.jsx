@@ -8,7 +8,7 @@ import pointingIcon from "../assets/Icon-5.png";
 
 const OurDigitalMarketing = () => {
   return (
-    <div className="border-2 xl:flex">
+    <div className="xl:flex">
       <div className="md:flex md:gap-2 md:flex-wrap md:items-center">
         <section className="bg-[#F2FFF8] w-[287px] h-[240px] flex justify-center items-center mx-auto rounded-2xl">
           <section>

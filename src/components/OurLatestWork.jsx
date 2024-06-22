@@ -1,6 +1,6 @@
 const OurLatestWork = () => {
   return (
-    <div>
+    <div className="mt-96">
       <h2 className="text-2xl">Our Latest Work</h2>
     </div>
   );
